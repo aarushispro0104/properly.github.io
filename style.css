@@ -1,0 +1,55 @@
+body{
+    background-color: #9384D1;
+}
+h1{
+    font-family: 'Croissant One', cursive;
+    text-align: center;
+    color: #974EC3;
+}
+h2{
+    font-family: 'Kenia', cursive;
+}
+p{
+    font-size: xx-large;
+}
+hr{
+    color: #BB2525;
+}
+image{
+  image-orientation: flip;
+}
+h5{
+    color: #0C134F;
+    font-size: xx-large;
+    font-family: 'Dancing Script', cursive;
+}
+h4{
+    color: #00ABB3;
+    font-size: x-large;
+    font-family: 'Skranji', cursive;
+}
+h6{
+    text-align: center;
+    font-size: x-large;
+}
+a{
+   color: #E25E3E;
+    text-align: center;
+}
+p{
+    color: rgb(34, 219, 157);
+}
+.yobruh{
+    font-family: 'Kanit', sans-serif;
+    color: #b51414;
+    font-size: x-large;
+}
+.aarshtatti{
+    font-family: 'Lobster', cursive;
+    font-size: x-large;
+}
+.proaarush{
+    font-family: 'Bebas Neue', sans-serif;
+   font-size: x-large;
+   color: #00f884;
+}
